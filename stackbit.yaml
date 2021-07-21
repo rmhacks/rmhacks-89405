@@ -50,7 +50,6 @@ models:
     type: page
     label: Page 2
     match: '*'
-    exclude: index.md
     fields:
       - type: string
         name: layout
