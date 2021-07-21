@@ -49,10 +49,8 @@ models:
   page_2:
     type: page
     label: Page 2
-    match:
-      - '*'
-    exclude:
-      - index.md
+    match: '*'
+    exclude: index.md
     fields:
       - type: string
         name: layout
