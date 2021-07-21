@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hi
+title: Link
 background_image: url('assets/img/backgrounds/image-from-rawpixel-id-1199650-jpeg.jpg')
 menus:
   header:
